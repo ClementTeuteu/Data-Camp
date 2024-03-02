@@ -19,7 +19,7 @@ pip install -U -r requirements.txt
 
 ### Challenge description
 
-Get started with the [dedicated notebook](enneigement_starting_kit.ipynb)
+Get started with the [dedicated notebook](footballer_market_value.ipynb)
 
 
 ### Test a submission
