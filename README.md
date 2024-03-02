@@ -1,7 +1,7 @@
 # RAMP starting-kit on a Football dataset for market price prediction
 
 
-Authors : Maryem Hajji, Yousra Lina El khalloufi,Franck Signe Talla, Théodore Trilles, Pierre Fihey, Clément Teulier
+Authors : Maryem Hajji, Yousra Lina El khalloufi, Franck Signe Talla, Théodore Trilles, Pierre Fihey, Clément Teulier
 
 
 ## Getting started
