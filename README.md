@@ -1,7 +1,7 @@
-# RAMP starting-kit on snow events prediction in France from meteorological data
+# RAMP starting-kit on a footballer's market price dataset
 
 
-Authors : Matis NANNI, Soulaimane Elmennaoui, Busra Bulut, Nils Reynaud
+Authors : Maryem Hajji, Yousra Lina El khalloufi,Franck Signe Talla, Théodore Trilles, Pierre Fihey, Clément Teulier
 
 
 ## Getting started
