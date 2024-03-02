@@ -1,6 +1,0 @@
-git clone URL_DU_DEPOT
-cd NOM_DU_DEPOT
-mkdir Data
-git  test.csv train.csv data/
-git commit -m "Move data files into data folder"
-git push
