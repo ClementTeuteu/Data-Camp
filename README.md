@@ -1,4 +1,4 @@
-# RAMP starting-kit on a footballer's market price dataset
+# RAMP starting-kit on a Football dataset for amrket price prediction
 
 
 Authors : Maryem Hajji, Yousra Lina El khalloufi,Franck Signe Talla, Théodore Trilles, Pierre Fihey, Clément Teulier
