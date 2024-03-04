@@ -2,7 +2,7 @@
 
 #### Pre-processing the dataset
 
-#### This code was initially implemented on a jupyter notebook.
+#### This code was initially implemented on a jupyter notebook
 
 
 
