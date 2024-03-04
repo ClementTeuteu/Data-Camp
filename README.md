@@ -3,6 +3,7 @@
 
 Authors : Maryem Hajji, Yousra Lina El khalloufi, Franck Signe Talla, Théodore Trilles, Pierre Fihey, Clément Teulier
 
+[Source dataset](https://www.kaggle.com/datasets/davidcariboo/player-scores)
 
 ## Getting started
 
